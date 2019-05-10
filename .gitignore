@@ -1,11 +1,9 @@
 .idea
-runs
 venv
 records
 recording
 *.txt
-!requirements.txt
-*.dat
+!requirements.tx
 __pycache__
 *.png
 *.pyc
